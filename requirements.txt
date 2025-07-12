@@ -1,0 +1,9 @@
+gradio
+langchain
+langchain-community
+transformers
+faiss-cpu
+sentence-transformers
+beautifulsoup4
+requests
+openai
