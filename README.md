@@ -2,7 +2,7 @@
 
 This project is a lightweight yet powerful **question-answering system** that allows users to:
 
-> 🧠 Ask questions about the content of **any public web page URL**, powered by the free `mistralai/mistral-small-3.2-24b-instruct` model via OpenRouter.
+> 🧠 Ask questions about the content of **any public web page URL**, powered by the `mistralai/mistral-small-3.2-24b-instruct` model.
 
 
 ### Live Demo Link - [Huggingface](https://huggingface.co/spaces/ajnx014/Langchain-RAG-QA-BOT) 
