@@ -4,6 +4,14 @@ This project is a lightweight yet powerful **question-answering system** that al
 
 > 🧠 Ask questions about the content of **any public web page URL**, powered by the free `mistralai/mistral-small-3.2-24b-instruct` model via OpenRouter.
 
+
+### Live Demo Link - [Huggingface](https://huggingface.co/spaces/ajnx014/Langchain-RAG-QA-BOT) 
+---
+
+### Demo Video - 
+https://github.com/user-attachments/assets/5ae0273c-8046-4e06-adc7-3996e598fab1
+
+> Without LangChain, this would require 200+ lines of manual data handling and orchestration logic. With it, you built a smart, extensible RAG system in \~30 lines of code.
 ---
 
 ### 🚀 What It Does
@@ -116,15 +124,3 @@ Here’s how LangChain powers the entire flow:
   `"Given the context: <retrieved_docs> — answer the question: <user_question>"`
 
 ---
-
-#### ✅ Final Benefit of LangChain
-
-LangChain makes it easy to:
-
-* Chain steps modularly without rewriting logic
-* Swap components (e.g., replace FAISS with Qdrant, Mistral with Claude, or add memory)
-* Build **production-quality LLM pipelines** using open components
-
----
-
-> Without LangChain, this would require 200+ lines of manual data handling and orchestration logic. With it, you built a smart, extensible RAG system in \~30 lines of code.
